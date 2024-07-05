@@ -1,3 +1,3 @@
 # Banca da Praça
 
-Landing Pgae para divuklgar a Banca da Praça
+Site para divulgar a Banca da Praça
